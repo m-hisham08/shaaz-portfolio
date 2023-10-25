@@ -118,9 +118,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    title: "Shaaz."
+    subtitle: "I am a Mechanical Enigneer"
+    content: "I design and create mechanical systems for various applications, utilizing cutting-edge engineering technologies to ensure optimal performance, robust functionality, and aesthetic appeal."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -147,7 +147,7 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a mechanical engineer with a keen enthusiasm for [Insert field here]. My educational foundation lies in mechanical engineering principles and mathematical analysis, and I possess a profound fascination with the synergy between technology and design. Currently, I hold the position of a mechanical engineer at [example organization] in San Francisco, CA. 
 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
